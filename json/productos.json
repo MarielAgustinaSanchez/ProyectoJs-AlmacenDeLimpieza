@@ -1,0 +1,50 @@
+[
+    {
+        "img":"../assets/img/productos1.jpg",
+        "nombre": "Jabon Liquido azul",
+        "descripcion": "5 Litros",
+        "precio": "100"
+    },
+    {
+        "img":"../assets/img/productos8.jpg",
+        "nombre": "Jabon Liquido verde",
+        "descripcion": "5 Litros",
+        "precio":"100"
+    },
+    {
+        "img":"../assets/img/productos6.jpg",
+        "nombre": "Detergente concentrado",
+        "descripcion": "5 Litros",
+        "precio": "200"
+    },
+    {
+        "img":"../assets/img/productos5.jpg",
+        "nombre": "Detergente comun",
+        "descripcion": "1 Litro",
+        "precio": "150"
+    },
+    {
+        "img":"../assets/img/productos2.jpg",
+        "nombre": "Suavizante celeste",
+        "descripcion": "5 Litros",
+        "precio": "100"
+    },
+    {
+        "img":"../assets/img/productos3.jpg",
+        "nombre": "Suavizante blanco",
+        "descripcion": "5 Litros",
+        "precio": "150"
+    },
+    {   
+        "img":"../assets/img/productos4.jpg",
+        "nombre": "Perfumina",
+        "descripcion": "1 Litro",
+        "precio": "150"
+    },
+    {   
+        "img":"../assets/img/productos7.jpg",
+        "nombre": "Desodorante Para Pisos",
+        "descripcion": "5 Litros",
+        "precio": "150"
+    }
+]
